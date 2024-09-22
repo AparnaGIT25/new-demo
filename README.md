@@ -1,3 +1,3 @@
 # new-demo
 this is my first git repository
-author-aparna
+author-aparna rai
